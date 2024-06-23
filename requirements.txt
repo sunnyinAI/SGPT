@@ -1,11 +1,11 @@
-torch --no-index
-torchvision --no-index
-pyyaml --no-index
-scikit-learn --no-index
-matplotlib --no-index
-pandas --no-index
-pretrainedmodels --no-index
-openpyxl --no-index
-einops --no-index
-ml-collections --no-index
-python_papi 
+torch==2.3.1
+torchvision==0.18.1
+pyyaml==6.0.1
+scikit-learn==1.5.0
+matplotlib==3.7.1
+pandas==1.5.2
+pretrainedmodels==0.7.4
+openpyxl==3.0.10
+einops==0.6.0
+ml-collections==0.1.1
+python_papi==5.5.1
